@@ -68,7 +68,6 @@ REST_FRAMEWORK = {
 MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -83,7 +82,6 @@ CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",
     "http://127.0.0.1:8000",
-    "http://192.168.86.242:8000"
 ]
 
 ROOT_URLCONF = 'rainProject.urls'
@@ -172,4 +170,3 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'frontend/react_frontend/build/static')
 ]
 
-STATIC_ROOT = BASE_DIR / "staticfiles"
