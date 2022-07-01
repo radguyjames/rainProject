@@ -8,3 +8,4 @@ djongo
 python-ldap
 react
 whitenoise
+pymongo
