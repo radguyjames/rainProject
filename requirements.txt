@@ -7,3 +7,4 @@ gunicorn
 djongo
 python-ldap
 react
+whitenoise
