@@ -1,0 +1,1927 @@
+[
+    {
+        "model": "protocols.sequence",
+        "pk": 1,
+        "fields": {
+            "sequence": "Cor HASTE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 2,
+        "fields": {
+            "sequence": "Ax HASTE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 3,
+        "fields": {
+            "sequence": "Ax in/out of phase"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 4,
+        "fields": {
+            "sequence": "Ax DWI"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 5,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Pre"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 6,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Venous"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 7,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Delay (3 min)"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 8,
+        "fields": {
+            "sequence": "Ax fl2d1_14_echos_liver Upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 9,
+        "fields": {
+            "sequence": "Ax fl2d1_14_echos_liver Mid"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 10,
+        "fields": {
+            "sequence": "Ax fl2d1_14_echos_liver Lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 11,
+        "fields": {
+            "sequence": "Sub pre-art"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 12,
+        "fields": {
+            "sequence": "Sub pre-ven"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 13,
+        "fields": {
+            "sequence": "Sub pre-delay"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 14,
+        "fields": {
+            "sequence": "Ax T2 FS Resp Trigger "
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 15,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Delay (20 min)"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 16,
+        "fields": {
+            "sequence": "Cor obl Haste Tail"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 17,
+        "fields": {
+            "sequence": "Cor obl Haste Body"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 18,
+        "fields": {
+            "sequence": "Cor obl Haste Head"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 19,
+        "fields": {
+            "sequence": "MRCP HASTE radial"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 20,
+        "fields": {
+            "sequence": "Cor T2 SPACE MRCP"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 21,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE hepatocyte phase 20 min"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 22,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE hepatocyte phase 25 min"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 23,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE hepatocyte phase 30 min"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 24,
+        "fields": {
+            "sequence": "Cor HASTE FS 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 25,
+        "fields": {
+            "sequence": "Ax HASTE 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 26,
+        "fields": {
+            "sequence": "Ax in/out of phase 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 27,
+        "fields": {
+            "sequence": "Ax in phase FLASH FS 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 28,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Arterial"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 29,
+        "fields": {
+            "sequence": "Cor T1 3D VIBE PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 30,
+        "fields": {
+            "sequence": "Cor HASTE FS 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 31,
+        "fields": {
+            "sequence": "Ax HASTE 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 32,
+        "fields": {
+            "sequence": "Ax in/out of phase 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 33,
+        "fields": {
+            "sequence": "Ax in phase FLASH FS 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 34,
+        "fields": {
+            "sequence": "Ax T2 Large FOV"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 35,
+        "fields": {
+            "sequence": "Sag T2 Small FOV"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 36,
+        "fields": {
+            "sequence": "Ax T2 obl upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 37,
+        "fields": {
+            "sequence": "Ax T2 obl mid"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 38,
+        "fields": {
+            "sequence": "Ax T2 obl lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 39,
+        "fields": {
+            "sequence": "Cor T2 obl "
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 40,
+        "fields": {
+            "sequence": "Sag T2"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 41,
+        "fields": {
+            "sequence": "Cor T2 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 42,
+        "fields": {
+            "sequence": "Cor T2"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 43,
+        "fields": {
+            "sequence": "Ax T2"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 44,
+        "fields": {
+            "sequence": "Ax T2 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 45,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 46,
+        "fields": {
+            "sequence": "Ax HASTE Upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 47,
+        "fields": {
+            "sequence": "Ax HASTE Lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 48,
+        "fields": {
+            "sequence": "inject glucagon"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 49,
+        "fields": {
+            "sequence": "Cor T1 VIBE Pre"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 50,
+        "fields": {
+            "sequence": "Cor T1 VIBE Arterial"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 51,
+        "fields": {
+            "sequence": "Cor T1 VIBE 1 min"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 52,
+        "fields": {
+            "sequence": "Cor T1 VIBE 2 min"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 53,
+        "fields": {
+            "sequence": "Cor T1 VIBE 3 min"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 54,
+        "fields": {
+            "sequence": "Sag T2 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 55,
+        "fields": {
+            "sequence": "Ax T2 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 56,
+        "fields": {
+            "sequence": "Cor T2 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 57,
+        "fields": {
+            "sequence": "Ax T1 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 58,
+        "fields": {
+            "sequence": "Ax DWI b500, b1000"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 59,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE pre"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 60,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE venous"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 61,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Delay"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 62,
+        "fields": {
+            "sequence": "Ax T1"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 63,
+        "fields": {
+            "sequence": "Ax T1 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 64,
+        "fields": {
+            "sequence": "Sag T1 3D VIBE pre"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 65,
+        "fields": {
+            "sequence": "Sag T1 3D VIBE arterial"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 66,
+        "fields": {
+            "sequence": "Sag T1 3D VIBE venous"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 67,
+        "fields": {
+            "sequence": "Sag T1 3D VIBE delay"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 68,
+        "fields": {
+            "sequence": "Ax T2 true to uterus"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 69,
+        "fields": {
+            "sequence": "Cor T2 true to uterus"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 70,
+        "fields": {
+            "sequence": "Cor HASTE 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 71,
+        "fields": {
+            "sequence": "Sag HASTE 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 72,
+        "fields": {
+            "sequence": "Ax FS HASTE 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 73,
+        "fields": {
+            "sequence": "Ax T1 in/out of phase 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 74,
+        "fields": {
+            "sequence": "Cor FS HASTE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 75,
+        "fields": {
+            "sequence": "Ax in/out of Phase Upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 76,
+        "fields": {
+            "sequence": "Ax in/out of Phase Lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 77,
+        "fields": {
+            "sequence": "Ax T2 FS Resp Trigger Upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 78,
+        "fields": {
+            "sequence": "Ax T2 FS Resp Trigger Lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 79,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Upper Pre"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 80,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Lower Pre"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 81,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Upper Arterial"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 82,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Upper Venous"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 83,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE 3 min Upper Delay"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 84,
+        "fields": {
+            "sequence": "Ax T1 3D VIBE Lower Delay"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 85,
+        "fields": {
+            "sequence": "Cor T1 3D VIBE Delay"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 86,
+        "fields": {
+            "sequence": "Ax PD FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 87,
+        "fields": {
+            "sequence": "Cor PD FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 88,
+        "fields": {
+            "sequence": "Cor T1"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 89,
+        "fields": {
+            "sequence": "Sag PD FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 90,
+        "fields": {
+            "sequence": "Cor obl T2 ACL view"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 91,
+        "fields": {
+            "sequence": "Cor STIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 92,
+        "fields": {
+            "sequence": "Cor 3D DESS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 93,
+        "fields": {
+            "sequence": "Sag T1"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 94,
+        "fields": {
+            "sequence": "Ax PD FS affected hip"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 95,
+        "fields": {
+            "sequence": "Sag T2 FS affected hip"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 96,
+        "fields": {
+            "sequence": "Cor T2 affected hip"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 97,
+        "fields": {
+            "sequence": "Ax PD FS sm FOV"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 98,
+        "fields": {
+            "sequence": "Sag STIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 99,
+        "fields": {
+            "sequence": "Sag STIR sm FOV"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 100,
+        "fields": {
+            "sequence": "Sag T2 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 101,
+        "fields": {
+            "sequence": "Sag STIR upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 102,
+        "fields": {
+            "sequence": "Sag T1 upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 103,
+        "fields": {
+            "sequence": "Sag STIR lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 104,
+        "fields": {
+            "sequence": "Sag T1 lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 105,
+        "fields": {
+            "sequence": "Cor T1 upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 106,
+        "fields": {
+            "sequence": "Cor T1 lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 107,
+        "fields": {
+            "sequence": "Cor T1 pelvis"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 108,
+        "fields": {
+            "sequence": "Cor T2 pelvis"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 109,
+        "fields": {
+            "sequence": "Ax T2 FS pelvis"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 110,
+        "fields": {
+            "sequence": "Ax T1 FS post"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 111,
+        "fields": {
+            "sequence": "Sag T1 post"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 112,
+        "fields": {
+            "sequence": "Ax STIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 113,
+        "fields": {
+            "sequence": "Cor T1 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 114,
+        "fields": {
+            "sequence": "Cor T1 FS post"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 115,
+        "fields": {
+            "sequence": "Sag T1 FS post"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 116,
+        "fields": {
+            "sequence": "Axi T1"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 117,
+        "fields": {
+            "sequence": "Ax T2 sacrum"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 118,
+        "fields": {
+            "sequence": "both sides"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 119,
+        "fields": {
+            "sequence": "Consult with radiologist"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 120,
+        "fields": {
+            "sequence": "Cor PD/T2 dual echo"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 121,
+        "fields": {
+            "sequence": "Ax PD/T2 dual echo"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 122,
+        "fields": {
+            "sequence": "Sag T1 l-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 123,
+        "fields": {
+            "sequence": "Sag T2 l-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 124,
+        "fields": {
+            "sequence": "Sag STIR l-spin"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 125,
+        "fields": {
+            "sequence": "Ax T2 l-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 126,
+        "fields": {
+            "sequence": "Cor obl STIR SI joints"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 127,
+        "fields": {
+            "sequence": "Cor obl T1 SI joints"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 128,
+        "fields": {
+            "sequence": "Axial T2 SI joints"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 129,
+        "fields": {
+            "sequence": "Cor obl T1 FS post SI joints"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 130,
+        "fields": {
+            "sequence": "Ax T1 FS post SI joints"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 131,
+        "fields": {
+            "sequence": "Cor T1 both hips"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 132,
+        "fields": {
+            "sequence": "Cor STIR both hips"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 133,
+        "fields": {
+            "sequence": "Ax T2 FS both hips"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 134,
+        "fields": {
+            "sequence": "Ax obl PD "
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 135,
+        "fields": {
+            "sequence": "Ax obl T2 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 136,
+        "fields": {
+            "sequence": "Sag T1 FS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 137,
+        "fields": {
+            "sequence": "Cor STIR pelvis"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 138,
+        "fields": {
+            "sequence": "MIP DWI grey scale"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 139,
+        "fields": {
+            "sequence": "Ax PD"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 140,
+        "fields": {
+            "sequence": "Aber View"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 141,
+        "fields": {
+            "sequence": "Cor PD/T2 FS dual echo"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 142,
+        "fields": {
+            "sequence": "Sag T1 FLAIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 143,
+        "fields": {
+            "sequence": "Ax T1 PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 144,
+        "fields": {
+            "sequence": "Cor 3D FLASH PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 145,
+        "fields": {
+            "sequence": "Ax EPI"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 146,
+        "fields": {
+            "sequence": "Ax GRE T2*"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 147,
+        "fields": {
+            "sequence": "Cor FLAIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 148,
+        "fields": {
+            "sequence": "Ax SWI/GRE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 149,
+        "fields": {
+            "sequence": "Ax TOF"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 150,
+        "fields": {
+            "sequence": "Sag FLAIR 3D SPACE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 151,
+        "fields": {
+            "sequence": "Sag T2 c-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 152,
+        "fields": {
+            "sequence": "Sag PD c-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 153,
+        "fields": {
+            "sequence": "Ax T2 c-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 154,
+        "fields": {
+            "sequence": "Sag T2 t-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 155,
+        "fields": {
+            "sequence": "Sag PD t-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 156,
+        "fields": {
+            "sequence": "Ax T2 t-spine"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 157,
+        "fields": {
+            "sequence": "Ax T2 FS 3mm orbits"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 158,
+        "fields": {
+            "sequence": "Cor T2 FS 3mm orbits"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 159,
+        "fields": {
+            "sequence": "Ax T1 FS PG 3mm orbits"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 160,
+        "fields": {
+            "sequence": "Cor T1 FS PG 3mm orbits"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 161,
+        "fields": {
+            "sequence": "Ax T1 3mm orbits"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 162,
+        "fields": {
+            "sequence": "Cor 3D MPRAGE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 163,
+        "fields": {
+            "sequence": "Cor STIR REAL"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 164,
+        "fields": {
+            "sequence": "Ax GRE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 165,
+        "fields": {
+            "sequence": "Cor T2 3mm temp lobe"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 166,
+        "fields": {
+            "sequence": "Cor STIR REAL 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 167,
+        "fields": {
+            "sequence": "Ax 3D MPRAGE PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 168,
+        "fields": {
+            "sequence": "Ax T2 3mm IAC"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 169,
+        "fields": {
+            "sequence": "Ax 3D CISS IAC"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 170,
+        "fields": {
+            "sequence": "Ax T1 PG IAC"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 171,
+        "fields": {
+            "sequence": "Ax FLAIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 172,
+        "fields": {
+            "sequence": "Cor T2 1.9mm Sella"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 173,
+        "fields": {
+            "sequence": "Cor T1 1.9mm Sella"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 174,
+        "fields": {
+            "sequence": "Cor T1 FS PG 1.9mm sella"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 175,
+        "fields": {
+            "sequence": "Sag T1 FS PG 1.9mm sella"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 176,
+        "fields": {
+            "sequence": "Cor T1 FS PG dynamic sella"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 177,
+        "fields": {
+            "sequence": "Ax 3D CISS TGN"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 178,
+        "fields": {
+            "sequence": "Ax 3D TOF COW"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 179,
+        "fields": {
+            "sequence": "Ax 3D CISS Hemi Facial Spasm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 180,
+        "fields": {
+            "sequence": "Ax T1 PG Hemi Facial Spasm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 181,
+        "fields": {
+            "sequence": "CE COW MRA Mask"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 182,
+        "fields": {
+            "sequence": "CE COW MRA Angio"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 183,
+        "fields": {
+            "sequence": "Cor 3D FLASH PRE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 184,
+        "fields": {
+            "sequence": "Ax 3D T1 MPRAGE PG  Navigator"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 185,
+        "fields": {
+            "sequence": "Ax T2 MERGE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 186,
+        "fields": {
+            "sequence": "Ax FLAIR MERGE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 187,
+        "fields": {
+            "sequence": "Ax 3D CE MRV mask"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 188,
+        "fields": {
+            "sequence": "Ax 3D CE MRV angio"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 189,
+        "fields": {
+            "sequence": "Sag Obl PD FS Closed mouth"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 190,
+        "fields": {
+            "sequence": "Sag Obl PD FS Open mouth"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 191,
+        "fields": {
+            "sequence": "Ax T1 FS 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 192,
+        "fields": {
+            "sequence": "Ax T2 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 193,
+        "fields": {
+            "sequence": "Sag T2 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 194,
+        "fields": {
+            "sequence": "Sag T1 2mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 195,
+        "fields": {
+            "sequence": "Cor CE Carotid MRA mask"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 196,
+        "fields": {
+            "sequence": "Cor CE Carotid MRA angio"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 197,
+        "fields": {
+            "sequence": "Sag T1 neck"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 198,
+        "fields": {
+            "sequence": "Ax T1 VIBE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 199,
+        "fields": {
+            "sequence": "Ax T1 VIBE sat bands"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 200,
+        "fields": {
+            "sequence": "Ax T1 VIBE SPAIR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 201,
+        "fields": {
+            "sequence": "Sag T1 Oblique"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 202,
+        "fields": {
+            "sequence": "Sag STIR Oblique"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 203,
+        "fields": {
+            "sequence": "Cor STIR affected side"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 204,
+        "fields": {
+            "sequence": "Ax T1 FS PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 205,
+        "fields": {
+            "sequence": "Cor T1 FS PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 206,
+        "fields": {
+            "sequence": "Ax T2 FS 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 207,
+        "fields": {
+            "sequence": "Ax STIR 6mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 208,
+        "fields": {
+            "sequence": "Cor T2 FS 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 209,
+        "fields": {
+            "sequence": "Cor T1 Pre 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 210,
+        "fields": {
+            "sequence": "Cor T1 FS PG 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 211,
+        "fields": {
+            "sequence": "Ax T1 FS PG 3mm"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 212,
+        "fields": {
+            "sequence": "svs_30_se_lac"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 213,
+        "fields": {
+            "sequence": "csi_30_se_lac"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 214,
+        "fields": {
+            "sequence": "Ax epi Perfusion"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 215,
+        "fields": {
+            "sequence": "Ax 3D T1 MPRAGE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 216,
+        "fields": {
+            "sequence": "DTI_30"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 217,
+        "fields": {
+            "sequence": "Sag 3D CISS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 218,
+        "fields": {
+            "sequence": "Ax 3D CISS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 219,
+        "fields": {
+            "sequence": "Sag PC Venc 10"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 220,
+        "fields": {
+            "sequence": "Sag PC Venc 15"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 221,
+        "fields": {
+            "sequence": "Sag PC Venc 20"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 222,
+        "fields": {
+            "sequence": "Ax 3D TOF Entire Brain"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 223,
+        "fields": {
+            "sequence": "Ax EPI fMRI"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 224,
+        "fields": {
+            "sequence": "Ax Twist"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 225,
+        "fields": {
+            "sequence": "Cor MPRAGE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 226,
+        "fields": {
+            "sequence": "Ax 3D MPRAGE Navigator"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 227,
+        "fields": {
+            "sequence": "Ax CISS"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 228,
+        "fields": {
+            "sequence": "Cor T1 Pre orbits to mid brain"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 229,
+        "fields": {
+            "sequence": "Sag T1 FS PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 230,
+        "fields": {
+            "sequence": "Ax MEDIC"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 231,
+        "fields": {
+            "sequence": "Sag PD"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 232,
+        "fields": {
+            "sequence": "Sag T1 PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 233,
+        "fields": {
+            "sequence": "Sag T2 SPACE upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 234,
+        "fields": {
+            "sequence": "Sag T2 SPACE lower"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 235,
+        "fields": {
+            "sequence": "Ax CISS C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 236,
+        "fields": {
+            "sequence": "Ax CISS T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 237,
+        "fields": {
+            "sequence": "Ax CISS L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 238,
+        "fields": {
+            "sequence": "Cor T1 FS upper PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 239,
+        "fields": {
+            "sequence": "Cor T1 FS lower PG"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 240,
+        "fields": {
+            "sequence": "Ax T1 FS PG C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 241,
+        "fields": {
+            "sequence": "Ax T1 FS PG T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 242,
+        "fields": {
+            "sequence": "Ax T1 FS PG L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 243,
+        "fields": {
+            "sequence": "Cor T1 FS upper PG 4HR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 244,
+        "fields": {
+            "sequence": "Cor T1 FS lower PG 4HR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 245,
+        "fields": {
+            "sequence": "Ax T1 FS PG C-sp 4HR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 246,
+        "fields": {
+            "sequence": "Ax T1 FS PG T-sp 4HR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 247,
+        "fields": {
+            "sequence": "Ax T1 FS PG L-sp 4HR"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 248,
+        "fields": {
+            "sequence": "Sag T2 C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 249,
+        "fields": {
+            "sequence": "Sag T1 C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 250,
+        "fields": {
+            "sequence": "Ax T2 C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 251,
+        "fields": {
+            "sequence": "Sag T2 T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 252,
+        "fields": {
+            "sequence": "Sag T1 T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 253,
+        "fields": {
+            "sequence": "Ax T2 T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 254,
+        "fields": {
+            "sequence": "Sag T2 L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 255,
+        "fields": {
+            "sequence": "Sag T1 L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 256,
+        "fields": {
+            "sequence": "Ax T2 L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 257,
+        "fields": {
+            "sequence": "Sag T1 FS PG C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 258,
+        "fields": {
+            "sequence": "Sag T1 FS PG T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 259,
+        "fields": {
+            "sequence": "Sag T1 FS PG L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 260,
+        "fields": {
+            "sequence": "Sag T2 FS C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 261,
+        "fields": {
+            "sequence": "Sag T2 FS T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 262,
+        "fields": {
+            "sequence": "Sag T2 FS L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 263,
+        "fields": {
+            "sequence": "Sag GRE"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 264,
+        "fields": {
+            "sequence": "Sag PD C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 265,
+        "fields": {
+            "sequence": "Sag PD T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 266,
+        "fields": {
+            "sequence": "Sag T1 PG C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 267,
+        "fields": {
+            "sequence": "Ax T1 PG C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 268,
+        "fields": {
+            "sequence": "Sag T1 PG T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 269,
+        "fields": {
+            "sequence": "Ax T1 PG T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 270,
+        "fields": {
+            "sequence": "Ax T1 C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 271,
+        "fields": {
+            "sequence": "Ax T1 T-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 272,
+        "fields": {
+            "sequence": "Ax MEDIC C-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 273,
+        "fields": {
+            "sequence": "Ax T1 L-sp"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 274,
+        "fields": {
+            "sequence": "Ax T2 upper"
+        }
+    },
+    {
+        "model": "protocols.sequence",
+        "pk": 275,
+        "fields": {
+            "sequence": "Ax T2 lower"
+        }
+    }
+]

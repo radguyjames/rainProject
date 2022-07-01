@@ -1,0 +1,6 @@
+django==3.0.5
+djangorestframework
+django-rest-knox
+pdfminer
+django-cors-headers
+gunicorn

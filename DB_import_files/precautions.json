@@ -1,0 +1,44 @@
+[
+    {
+        "model": "patientRequirements.isolationprecaution",
+        "pk": 1,
+        "fields": {
+            "isolationPrecaution": "Airborne"
+        }
+    },
+    {
+        "model": "patientRequirements.isolationprecaution",
+        "pk": 2,
+        "fields": {
+            "isolationPrecaution": "Droplet"
+        }
+    },
+    {
+        "model": "patientRequirements.isolationprecaution",
+        "pk": 3,
+        "fields": {
+            "isolationPrecaution": "Enhanced Droplet"
+        }
+    },
+    {
+        "model": "patientRequirements.isolationprecaution",
+        "pk": 4,
+        "fields": {
+            "isolationPrecaution": "Contact"
+        }
+    },
+    {
+        "model": "patientRequirements.isolationprecaution",
+        "pk": 5,
+        "fields": {
+            "isolationPrecaution": "Covid +"
+        }
+    },
+    {
+        "model": "patientRequirements.isolationprecaution",
+        "pk": 6,
+        "fields": {
+            "isolationPrecaution": "Covid -"
+        }
+    }
+]

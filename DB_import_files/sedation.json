@@ -1,0 +1,26 @@
+[
+    {
+        "model": "patientRequirements.sedationrequirement",
+        "pk": 1,
+        "fields": {
+            "sedationRequirement": "Sedation",
+            "message": "A nurse is required to be with the patient for monitoring. Ensure medications are ordered (Ativan, Midazolam, etc)"
+        }
+    },
+    {
+        "model": "patientRequirements.sedationrequirement",
+        "pk": 2,
+        "fields": {
+            "sedationRequirement": "Anesthetic",
+            "message": "Have anesthesia follow up and consult with MRI department"
+        }
+    },
+    {
+        "model": "patientRequirements.sedationrequirement",
+        "pk": 3,
+        "fields": {
+            "sedationRequirement": "Sedation and Anesthetic",
+            "message": "A nurse is required to be with the patient for monitoring. Ensure medications are ordered (Ativan, Midazolam, etc). Have anesthesia follow up and consult with MRI department"
+        }
+    }
+]

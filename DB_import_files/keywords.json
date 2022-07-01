@@ -1,0 +1,5978 @@
+[
+    {
+        "model": "keywords.keyword",
+        "pk": 1,
+        "fields": {
+            "keyword": "mets",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 2,
+        "fields": {
+            "keyword": "metastisis",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 3,
+        "fields": {
+            "keyword": "cirrohsis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 4,
+        "fields": {
+            "keyword": "primovist",
+            "points": 30,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 5,
+        "fields": {
+            "keyword": "jaundice",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 6,
+        "fields": {
+            "keyword": "abscess",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 7,
+        "fields": {
+            "keyword": "enlarged spleen",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 8,
+        "fields": {
+            "keyword": "hemangioma",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 9,
+        "fields": {
+            "keyword": "kidney infection",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 10,
+        "fields": {
+            "keyword": "trauma",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 11,
+        "fields": {
+            "keyword": "acute abdominal pain",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 12,
+        "fields": {
+            "keyword": "gastroenteritis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 13,
+        "fields": {
+            "keyword": "pancreatitis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 14,
+        "fields": {
+            "keyword": "cholelithiasis",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 15,
+        "fields": {
+            "keyword": "appendisitis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 16,
+        "fields": {
+            "keyword": "ascities",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 17,
+        "fields": {
+            "keyword": "rectal ca",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 18,
+        "fields": {
+            "keyword": "rectal cancer",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 19,
+        "fields": {
+            "keyword": "staging",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 20,
+        "fields": {
+            "keyword": "stage",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 21,
+        "fields": {
+            "keyword": "rfa",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 22,
+        "fields": {
+            "keyword": "radio frequency ablation",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 23,
+        "fields": {
+            "keyword": "enlarged prostate",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 24,
+        "fields": {
+            "keyword": "bile leak",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 25,
+        "fields": {
+            "keyword": "chrons",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 26,
+        "fields": {
+            "keyword": "ulcerative cholitis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 27,
+        "fields": {
+            "keyword": "fibroids",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 28,
+        "fields": {
+            "keyword": "ovarion cyst",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 29,
+        "fields": {
+            "keyword": "entometroma",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 30,
+        "fields": {
+            "keyword": "ovarian cancer",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 31,
+        "fields": {
+            "keyword": "dermoid",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 32,
+        "fields": {
+            "keyword": "fibrous tumour",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 33,
+        "fields": {
+            "keyword": "adnexal mass",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 34,
+        "fields": {
+            "keyword": "myometrium",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 35,
+        "fields": {
+            "keyword": "leiomyomas",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 36,
+        "fields": {
+            "keyword": "adenomyosis",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 37,
+        "fields": {
+            "keyword": "endometrial thickening",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 38,
+        "fields": {
+            "keyword": "endometrila polyps",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 39,
+        "fields": {
+            "keyword": "iron quantification",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 40,
+        "fields": {
+            "keyword": "impn",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 41,
+        "fields": {
+            "keyword": "llq pain",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 42,
+        "fields": {
+            "keyword": "rlq pain",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 43,
+        "fields": {
+            "keyword": "urq pain",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 44,
+        "fields": {
+            "keyword": "ulq pain",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 45,
+        "fields": {
+            "keyword": "dilated ducts",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 46,
+        "fields": {
+            "keyword": "cholestatic",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 47,
+        "fields": {
+            "keyword": "lesion",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 48,
+        "fields": {
+            "keyword": "mass",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 49,
+        "fields": {
+            "keyword": "cyst",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 50,
+        "fields": {
+            "keyword": "pancreas mrcp",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 51,
+        "fields": {
+            "keyword": "liver lesions",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 52,
+        "fields": {
+            "keyword": "chronic pancreatitis",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 53,
+        "fields": {
+            "keyword": "bilary duct dilation",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 54,
+        "fields": {
+            "keyword": "periods",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 55,
+        "fields": {
+            "keyword": "pancreatic cysts",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 56,
+        "fields": {
+            "keyword": "pancreatic cancer",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 57,
+        "fields": {
+            "keyword": "psc",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 58,
+        "fields": {
+            "keyword": "lft",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 59,
+        "fields": {
+            "keyword": "lfts",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 60,
+        "fields": {
+            "keyword": "fistula",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 61,
+        "fields": {
+            "keyword": "ishiorectal",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 62,
+        "fields": {
+            "keyword": "fistulectomy",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 63,
+        "fields": {
+            "keyword": "post defecation",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 64,
+        "fields": {
+            "keyword": "fistula surgery",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 65,
+        "fields": {
+            "keyword": "siton",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 66,
+        "fields": {
+            "keyword": "liver mass",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 67,
+        "fields": {
+            "keyword": "adenomas",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 68,
+        "fields": {
+            "keyword": "intraductal",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 69,
+        "fields": {
+            "keyword": "hcc",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 70,
+        "fields": {
+            "keyword": "dilated bile ducts",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 71,
+        "fields": {
+            "keyword": "cbd",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 72,
+        "fields": {
+            "keyword": "pancreatic lesion",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 73,
+        "fields": {
+            "keyword": "cystic",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 74,
+        "fields": {
+            "keyword": "pancreatic cyst",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 75,
+        "fields": {
+            "keyword": "peri anal",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 76,
+        "fields": {
+            "keyword": "pelvic fistula",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 77,
+        "fields": {
+            "keyword": "discharge",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 78,
+        "fields": {
+            "keyword": "mrcp",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 79,
+        "fields": {
+            "keyword": "mre",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 80,
+        "fields": {
+            "keyword": "ileal",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 81,
+        "fields": {
+            "keyword": "ibd",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 82,
+        "fields": {
+            "keyword": "uturine anatomy",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 83,
+        "fields": {
+            "keyword": "bicornuate",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 84,
+        "fields": {
+            "keyword": "subseptate uterus",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 85,
+        "fields": {
+            "keyword": "mullerian fusion defect",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 86,
+        "fields": {
+            "keyword": "rfa liver lesion",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 87,
+        "fields": {
+            "keyword": "multicystic",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 88,
+        "fields": {
+            "keyword": "low grade",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 89,
+        "fields": {
+            "keyword": "high grade",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 90,
+        "fields": {
+            "keyword": "mid grade",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 91,
+        "fields": {
+            "keyword": "prostate",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 92,
+        "fields": {
+            "keyword": "lesions",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 93,
+        "fields": {
+            "keyword": "liver",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 94,
+        "fields": {
+            "keyword": "fatty liver",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 95,
+        "fields": {
+            "keyword": "hepatitis b",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 96,
+        "fields": {
+            "keyword": "pancreatic",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 97,
+        "fields": {
+            "keyword": "mucinous",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 98,
+        "fields": {
+            "keyword": "neoplasm",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 99,
+        "fields": {
+            "keyword": "ileitis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 100,
+        "fields": {
+            "keyword": "terminal",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 101,
+        "fields": {
+            "keyword": "terminal ileitis",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 102,
+        "fields": {
+            "keyword": "cervical ca",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 103,
+        "fields": {
+            "keyword": "dysplastic nodule",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 104,
+        "fields": {
+            "keyword": "nodule",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 105,
+        "fields": {
+            "keyword": "nodules",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 106,
+        "fields": {
+            "keyword": "cholestatic",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 107,
+        "fields": {
+            "keyword": "liver enzymes",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 108,
+        "fields": {
+            "keyword": "fnh",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 109,
+        "fields": {
+            "keyword": "focal nodular hyperplasia",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 110,
+        "fields": {
+            "keyword": "tail",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 111,
+        "fields": {
+            "keyword": "pancreas",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 112,
+        "fields": {
+            "keyword": "head",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 113,
+        "fields": {
+            "keyword": "ovarian",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 114,
+        "fields": {
+            "keyword": "endometrioma",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 115,
+        "fields": {
+            "keyword": "endometriotic",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 116,
+        "fields": {
+            "keyword": "adnexa",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 117,
+        "fields": {
+            "keyword": "hypoechoic mass",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 118,
+        "fields": {
+            "keyword": "hbv",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 119,
+        "fields": {
+            "keyword": "pelvic pain",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 120,
+        "fields": {
+            "keyword": "psa",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 121,
+        "fields": {
+            "keyword": "prostate lesions",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 122,
+        "fields": {
+            "keyword": "increasing psa",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 123,
+        "fields": {
+            "keyword": "invasive",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 124,
+        "fields": {
+            "keyword": "uterus",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 125,
+        "fields": {
+            "keyword": "ovaries",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 126,
+        "fields": {
+            "keyword": "ovary",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 127,
+        "fields": {
+            "keyword": "ca cervix",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 128,
+        "fields": {
+            "keyword": "renal",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 129,
+        "fields": {
+            "keyword": "amls",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 130,
+        "fields": {
+            "keyword": "lymph nodes",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 131,
+        "fields": {
+            "keyword": "complex pelvic mass",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 132,
+        "fields": {
+            "keyword": "pelvic mass",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 133,
+        "fields": {
+            "keyword": "mri/mrcp",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 134,
+        "fields": {
+            "keyword": "serpiginous",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 135,
+        "fields": {
+            "keyword": "hypoechoic",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 136,
+        "fields": {
+            "keyword": "avascular",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 137,
+        "fields": {
+            "keyword": "multiple septations",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 138,
+        "fields": {
+            "keyword": "pseudocyst",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 139,
+        "fields": {
+            "keyword": "iron",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 140,
+        "fields": {
+            "keyword": "iron overload",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 141,
+        "fields": {
+            "keyword": "liver mets",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 142,
+        "fields": {
+            "keyword": "cystadenoma",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 143,
+        "fields": {
+            "keyword": "serous",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 144,
+        "fields": {
+            "keyword": "cholangiocarcinoma",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 145,
+        "fields": {
+            "keyword": "hepatoma",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 146,
+        "fields": {
+            "keyword": "negatice biopsy",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 147,
+        "fields": {
+            "keyword": "disease activity",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 148,
+        "fields": {
+            "keyword": "radiologist reccomend mrcp",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 149,
+        "fields": {
+            "keyword": "radiologist reccomended mrcp",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 150,
+        "fields": {
+            "keyword": "reccomended mrcp",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 151,
+        "fields": {
+            "keyword": "reccomend mrcp",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 152,
+        "fields": {
+            "keyword": "pancreatic body",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 153,
+        "fields": {
+            "keyword": "tace",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 154,
+        "fields": {
+            "keyword": "pancreatic mass",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 155,
+        "fields": {
+            "keyword": "liver transplant",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 156,
+        "fields": {
+            "keyword": "hypovascular lesion",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 157,
+        "fields": {
+            "keyword": "liver metastases",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 158,
+        "fields": {
+            "keyword": "biliary",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 159,
+        "fields": {
+            "keyword": "sclerosing cholangitis",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 160,
+        "fields": {
+            "keyword": "biliary dilation",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 161,
+        "fields": {
+            "keyword": "f/u mrcp",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 162,
+        "fields": {
+            "keyword": "endometrial cancer",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 163,
+        "fields": {
+            "keyword": "elevated liver enzymes",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 164,
+        "fields": {
+            "keyword": "benign",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 165,
+        "fields": {
+            "keyword": "hepatic hemiangioma",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 166,
+        "fields": {
+            "keyword": "urethral diverticulum",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 167,
+        "fields": {
+            "keyword": "urethral",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 168,
+        "fields": {
+            "keyword": "choledocholithiasis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 169,
+        "fields": {
+            "keyword": "hemochromatosis",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 170,
+        "fields": {
+            "keyword": "adrenal gland",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 171,
+        "fields": {
+            "keyword": "adreanls",
+            "points": 10,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 172,
+        "fields": {
+            "keyword": "adenocarcinoma",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 173,
+        "fields": {
+            "keyword": "liver carcinoid",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 174,
+        "fields": {
+            "keyword": "sludge",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 175,
+        "fields": {
+            "keyword": "cholestatic enzymes",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 176,
+        "fields": {
+            "keyword": "gallbladder",
+            "points": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 177,
+        "fields": {
+            "keyword": "menorrhagia",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 178,
+        "fields": {
+            "keyword": "paraovarian cysts",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 179,
+        "fields": {
+            "keyword": "endometriomas",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 180,
+        "fields": {
+            "keyword": "lobe",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 181,
+        "fields": {
+            "keyword": "heavy periods",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 182,
+        "fields": {
+            "keyword": "ovarian cysts",
+            "points": 3,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 183,
+        "fields": {
+            "keyword": "ipmn",
+            "points": 5,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 184,
+        "fields": {
+            "keyword": "cryptorchidism",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 185,
+        "fields": {
+            "keyword": "hypodgonadism",
+            "points": 1,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 186,
+        "fields": {
+            "keyword": "cervical mass",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 187,
+        "fields": {
+            "keyword": "adenoma",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 188,
+        "fields": {
+            "keyword": "kidneys",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 189,
+        "fields": {
+            "keyword": "pelvis",
+            "points": 20,
+            "type": 1
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 190,
+        "fields": {
+            "keyword": "tumour",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 191,
+        "fields": {
+            "keyword": "cyst",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 192,
+        "fields": {
+            "keyword": "mass",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 193,
+        "fields": {
+            "keyword": "mortens neuroma",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 194,
+        "fields": {
+            "keyword": "acl",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 195,
+        "fields": {
+            "keyword": "pcl",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 196,
+        "fields": {
+            "keyword": "mcl",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 197,
+        "fields": {
+            "keyword": "lcl",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 198,
+        "fields": {
+            "keyword": "meniscus",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 199,
+        "fields": {
+            "keyword": "rotaor cuff",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 200,
+        "fields": {
+            "keyword": "labrum",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 201,
+        "fields": {
+            "keyword": "glenoid",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 202,
+        "fields": {
+            "keyword": "bicepital groove",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 203,
+        "fields": {
+            "keyword": "acromian",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 204,
+        "fields": {
+            "keyword": "throwing",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 205,
+        "fields": {
+            "keyword": "elbow",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 206,
+        "fields": {
+            "keyword": "wrist",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 207,
+        "fields": {
+            "keyword": "tcll",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 208,
+        "fields": {
+            "keyword": "carpal tunnel",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 209,
+        "fields": {
+            "keyword": "scaphiod",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 210,
+        "fields": {
+            "keyword": "carpal bones",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 211,
+        "fields": {
+            "keyword": "fell on wrist",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 212,
+        "fields": {
+            "keyword": "foosh",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 213,
+        "fields": {
+            "keyword": "hand",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 214,
+        "fields": {
+            "keyword": "finger",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 215,
+        "fields": {
+            "keyword": "meta carpal",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 216,
+        "fields": {
+            "keyword": "avn",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 217,
+        "fields": {
+            "keyword": "hip",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 218,
+        "fields": {
+            "keyword": "foot",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 219,
+        "fields": {
+            "keyword": "ankle",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 220,
+        "fields": {
+            "keyword": "achilles tendon",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 221,
+        "fields": {
+            "keyword": "knee",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 222,
+        "fields": {
+            "keyword": "multile myeloma",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 223,
+        "fields": {
+            "keyword": "myopathy",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 224,
+        "fields": {
+            "keyword": "humerus",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 225,
+        "fields": {
+            "keyword": "forearm",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 226,
+        "fields": {
+            "keyword": "femur",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 227,
+        "fields": {
+            "keyword": "thigh",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 228,
+        "fields": {
+            "keyword": "osteochondroma",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 229,
+        "fields": {
+            "keyword": "enchondromas",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 230,
+        "fields": {
+            "keyword": "giant cell",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 231,
+        "fields": {
+            "keyword": "osteomas",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 232,
+        "fields": {
+            "keyword": "osteoid",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 233,
+        "fields": {
+            "keyword": "osteogenic sarcoma",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 234,
+        "fields": {
+            "keyword": "chondrosarcoma",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 235,
+        "fields": {
+            "keyword": "ewing's sarcoma",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 236,
+        "fields": {
+            "keyword": "multiple myeloma",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 237,
+        "fields": {
+            "keyword": "malignant",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 238,
+        "fields": {
+            "keyword": "mets",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 239,
+        "fields": {
+            "keyword": "metastases",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 240,
+        "fields": {
+            "keyword": "spondylolysis",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 241,
+        "fields": {
+            "keyword": "spondylolisthesis",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 242,
+        "fields": {
+            "keyword": "meniscal tear",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 243,
+        "fields": {
+            "keyword": "meniscectomy",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 244,
+        "fields": {
+            "keyword": "buckling",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 245,
+        "fields": {
+            "keyword": "residual tear",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 246,
+        "fields": {
+            "keyword": "lateral joint",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 247,
+        "fields": {
+            "keyword": "medial pain",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 248,
+        "fields": {
+            "keyword": "anterior pain",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 249,
+        "fields": {
+            "keyword": "suprapatellar",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 250,
+        "fields": {
+            "keyword": "snap",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 251,
+        "fields": {
+            "keyword": "enchondroma",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 252,
+        "fields": {
+            "keyword": "rc tear",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 253,
+        "fields": {
+            "keyword": "rotator cuff tear",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 254,
+        "fields": {
+            "keyword": "lock",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 255,
+        "fields": {
+            "keyword": "cuff",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 256,
+        "fields": {
+            "keyword": "mortons neuroma",
+            "points": 15,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 257,
+        "fields": {
+            "keyword": "shoulder",
+            "points": 10,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 258,
+        "fields": {
+            "keyword": "neuroma",
+            "points": 15,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 259,
+        "fields": {
+            "keyword": "bilateral",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 260,
+        "fields": {
+            "keyword": "neuropathic",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 261,
+        "fields": {
+            "keyword": "shoulder impingement",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 262,
+        "fields": {
+            "keyword": "neoplasm",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 263,
+        "fields": {
+            "keyword": "cystic mass",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 264,
+        "fields": {
+            "keyword": "solid mass",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 265,
+        "fields": {
+            "keyword": "lipoma vs sarcoma",
+            "points": 20,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 266,
+        "fields": {
+            "keyword": "lipoma",
+            "points": 20,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 267,
+        "fields": {
+            "keyword": "sarcoma",
+            "points": 20,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 268,
+        "fields": {
+            "keyword": "mass",
+            "points": 20,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 269,
+        "fields": {
+            "keyword": "atypical mass",
+            "points": 20,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 270,
+        "fields": {
+            "keyword": "clicking",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 271,
+        "fields": {
+            "keyword": "supraspinatous",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 272,
+        "fields": {
+            "keyword": "thumb",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 273,
+        "fields": {
+            "keyword": "mcp",
+            "points": 3,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 274,
+        "fields": {
+            "keyword": "radiculopathy",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 275,
+        "fields": {
+            "keyword": "osteomyelitis",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 276,
+        "fields": {
+            "keyword": "shoulder blade",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 277,
+        "fields": {
+            "keyword": "talar dome",
+            "points": 15,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 278,
+        "fields": {
+            "keyword": "osteochondral lesion",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 279,
+        "fields": {
+            "keyword": "lesion",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 280,
+        "fields": {
+            "keyword": "osteochondral",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 281,
+        "fields": {
+            "keyword": "gout",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 282,
+        "fields": {
+            "keyword": "ecu tendinopathy",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 283,
+        "fields": {
+            "keyword": "tfcc",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 284,
+        "fields": {
+            "keyword": "biceps tendon",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 285,
+        "fields": {
+            "keyword": "biceps tendon tear",
+            "points": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 286,
+        "fields": {
+            "keyword": "instability",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 287,
+        "fields": {
+            "keyword": "labral tear",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 288,
+        "fields": {
+            "keyword": "crepitus",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 289,
+        "fields": {
+            "keyword": "malleolus",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 290,
+        "fields": {
+            "keyword": "plantar fascitis",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 291,
+        "fields": {
+            "keyword": "heel",
+            "points": 6,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 292,
+        "fields": {
+            "keyword": "cuboid",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 293,
+        "fields": {
+            "keyword": "meniscal injury",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 294,
+        "fields": {
+            "keyword": "anterior drawer test",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 295,
+        "fields": {
+            "keyword": "metatarsal",
+            "points": 5,
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 296,
+        "fields": {
+            "keyword": "locked",
+            "points": "5",
+            "type": 2
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 297,
+        "fields": {
+            "keyword": "migraine",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 298,
+        "fields": {
+            "keyword": "headache",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 299,
+        "fields": {
+            "keyword": "headache",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 300,
+        "fields": {
+            "keyword": "meningioma",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 301,
+        "fields": {
+            "keyword": "gbm",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 302,
+        "fields": {
+            "keyword": "glioblastoma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 303,
+        "fields": {
+            "keyword": "astrocytoma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 304,
+        "fields": {
+            "keyword": "oligodendroglioma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 305,
+        "fields": {
+            "keyword": "glioma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 306,
+        "fields": {
+            "keyword": "dai",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 307,
+        "fields": {
+            "keyword": "stroke",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 308,
+        "fields": {
+            "keyword": "bleed",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 309,
+        "fields": {
+            "keyword": "rrms",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 310,
+        "fields": {
+            "keyword": "spms",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 311,
+        "fields": {
+            "keyword": "cholesteatoma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 312,
+        "fields": {
+            "keyword": "adenoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 313,
+        "fields": {
+            "keyword": "pituitary",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 314,
+        "fields": {
+            "keyword": "prolactinoma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 315,
+        "fields": {
+            "keyword": "tia",
+            "points": 2,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 316,
+        "fields": {
+            "keyword": "hemorrhage",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 317,
+        "fields": {
+            "keyword": "dynamic",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 318,
+        "fields": {
+            "keyword": "resection",
+            "points": 2,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 319,
+        "fields": {
+            "keyword": "subdural",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 320,
+        "fields": {
+            "keyword": "abscess",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 321,
+        "fields": {
+            "keyword": "microadenoma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 322,
+        "fields": {
+            "keyword": "macroadenoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 323,
+        "fields": {
+            "keyword": "lesion",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 324,
+        "fields": {
+            "keyword": "seizure",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 325,
+        "fields": {
+            "keyword": "mesial temporal lobe",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 326,
+        "fields": {
+            "keyword": "mts",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 327,
+        "fields": {
+            "keyword": "epilepsy",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 328,
+        "fields": {
+            "keyword": "tbi",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 329,
+        "fields": {
+            "keyword": "prognostication",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 330,
+        "fields": {
+            "keyword": "hydrocephalus",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 331,
+        "fields": {
+            "keyword": "mets",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 332,
+        "fields": {
+            "keyword": "metastatic",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 333,
+        "fields": {
+            "keyword": "intracranial",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 334,
+        "fields": {
+            "keyword": "mass",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 335,
+        "fields": {
+            "keyword": "white matter",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 336,
+        "fields": {
+            "keyword": "dementia",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 337,
+        "fields": {
+            "keyword": "infarct",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 338,
+        "fields": {
+            "keyword": "avm",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 339,
+        "fields": {
+            "keyword": "mrv",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 340,
+        "fields": {
+            "keyword": "plaques",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 341,
+        "fields": {
+            "keyword": "post op",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 342,
+        "fields": {
+            "keyword": "f/u aneurysm",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 343,
+        "fields": {
+            "keyword": "venous thrombosis",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 344,
+        "fields": {
+            "keyword": "sss",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 345,
+        "fields": {
+            "keyword": "mva",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 346,
+        "fields": {
+            "keyword": "mvc",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 347,
+        "fields": {
+            "keyword": "tgn",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 348,
+        "fields": {
+            "keyword": "trigeminal neuralgia",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 349,
+        "fields": {
+            "keyword": "neuralgia",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 350,
+        "fields": {
+            "keyword": "posterior fossa",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 351,
+        "fields": {
+            "keyword": "crainotomy",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 352,
+        "fields": {
+            "keyword": "gliosis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 353,
+        "fields": {
+            "keyword": "edema",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 354,
+        "fields": {
+            "keyword": "ventriculostomy",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 355,
+        "fields": {
+            "keyword": "axiem",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 356,
+        "fields": {
+            "keyword": "stealth",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 357,
+        "fields": {
+            "keyword": "chiari",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 358,
+        "fields": {
+            "keyword": "mvd",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 359,
+        "fields": {
+            "keyword": "hfs",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 360,
+        "fields": {
+            "keyword": "bells palsy",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 361,
+        "fields": {
+            "keyword": "occlusion",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 362,
+        "fields": {
+            "keyword": "basilar",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 363,
+        "fields": {
+            "keyword": "mca",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 364,
+        "fields": {
+            "keyword": "cow",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 365,
+        "fields": {
+            "keyword": "tof",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 366,
+        "fields": {
+            "keyword": "anoxic",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 367,
+        "fields": {
+            "keyword": "neoplasm",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 368,
+        "fields": {
+            "keyword": "hypothyroidism",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 369,
+        "fields": {
+            "keyword": "hippocampal sclerosis",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 370,
+        "fields": {
+            "keyword": "cyst",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 371,
+        "fields": {
+            "keyword": "ischemia",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 372,
+        "fields": {
+            "keyword": "aneurysm",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 373,
+        "fields": {
+            "keyword": "tumour",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 374,
+        "fields": {
+            "keyword": "ms",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 375,
+        "fields": {
+            "keyword": "multiple sclerosis",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 376,
+        "fields": {
+            "keyword": "schwannoma",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 377,
+        "fields": {
+            "keyword": "cavernoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 378,
+        "fields": {
+            "keyword": "meningitis",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 379,
+        "fields": {
+            "keyword": "nf1",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 380,
+        "fields": {
+            "keyword": "hyperprolactinemia",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 381,
+        "fields": {
+            "keyword": "ich",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 382,
+        "fields": {
+            "keyword": "arachnoid cyst",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 383,
+        "fields": {
+            "keyword": "demyelination",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 384,
+        "fields": {
+            "keyword": "pseudoaneurysm",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 385,
+        "fields": {
+            "keyword": "cva",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 386,
+        "fields": {
+            "keyword": "ischemic",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 387,
+        "fields": {
+            "keyword": "spectroscopy",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 388,
+        "fields": {
+            "keyword": "perfusion",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 389,
+        "fields": {
+            "keyword": "dti",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 390,
+        "fields": {
+            "keyword": "fmri",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 391,
+        "fields": {
+            "keyword": "disecction",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 392,
+        "fields": {
+            "keyword": "active",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 393,
+        "fields": {
+            "keyword": "ms screen",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 394,
+        "fields": {
+            "keyword": "optic neuritis",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 395,
+        "fields": {
+            "keyword": "orbits",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 396,
+        "fields": {
+            "keyword": "tmj",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 397,
+        "fields": {
+            "keyword": "carotid plaques",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 398,
+        "fields": {
+            "keyword": "brachial",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 399,
+        "fields": {
+            "keyword": "plexus",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 400,
+        "fields": {
+            "keyword": "neck",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 401,
+        "fields": {
+            "keyword": "oropharynx",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 402,
+        "fields": {
+            "keyword": "toungue",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 403,
+        "fields": {
+            "keyword": "multi voxel spectrospcopy",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 404,
+        "fields": {
+            "keyword": "csf flow",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 405,
+        "fields": {
+            "keyword": "cerbral aqueduct",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 406,
+        "fields": {
+            "keyword": "loc",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 407,
+        "fields": {
+            "keyword": "dizzieness",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 408,
+        "fields": {
+            "keyword": "acoustic neuroma",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 409,
+        "fields": {
+            "keyword": "neuroma",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 410,
+        "fields": {
+            "keyword": "vestibular schwannoma",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 411,
+        "fields": {
+            "keyword": "tinnitus",
+            "points": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 412,
+        "fields": {
+            "keyword": "hearing loss",
+            "points": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 413,
+        "fields": {
+            "keyword": "vertigo",
+            "points": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 414,
+        "fields": {
+            "keyword": "sensory loss",
+            "points": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 415,
+        "fields": {
+            "keyword": "craniopharyngioma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 416,
+        "fields": {
+            "keyword": "ependymoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 417,
+        "fields": {
+            "keyword": "multiforme",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 418,
+        "fields": {
+            "keyword": "vomiting",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 419,
+        "fields": {
+            "keyword": "lipoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 420,
+        "fields": {
+            "keyword": "medulloblastoma",
+            "points": 2,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 421,
+        "fields": {
+            "keyword": "ataxia",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 422,
+        "fields": {
+            "keyword": "intracranial pressure",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 423,
+        "fields": {
+            "keyword": "paralysis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 424,
+        "fields": {
+            "keyword": "pituitary adenoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 425,
+        "fields": {
+            "keyword": "personality change",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 426,
+        "fields": {
+            "keyword": "rhinorrhea",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 427,
+        "fields": {
+            "keyword": "agenesis corpus callosum",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 428,
+        "fields": {
+            "keyword": "developmental",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 429,
+        "fields": {
+            "keyword": "delay",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 430,
+        "fields": {
+            "keyword": "crainosynostosis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 431,
+        "fields": {
+            "keyword": "dandy-walker syndrome",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 432,
+        "fields": {
+            "keyword": "encephalocele",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 433,
+        "fields": {
+            "keyword": "spasticity",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 434,
+        "fields": {
+            "keyword": "microcephaly",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 435,
+        "fields": {
+            "keyword": "mental retardation",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 436,
+        "fields": {
+            "keyword": "loss of appetite",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 437,
+        "fields": {
+            "keyword": "lethargy",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 438,
+        "fields": {
+            "keyword": "cranial size",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 439,
+        "fields": {
+            "keyword": "neurofibromatosis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 440,
+        "fields": {
+            "keyword": "tuberous sclerosis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 441,
+        "fields": {
+            "keyword": "adenoma sebaceum",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 442,
+        "fields": {
+            "keyword": "sturgeon-weber syndrome",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 443,
+        "fields": {
+            "keyword": "port wine stain",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 444,
+        "fields": {
+            "keyword": "hemiatrophy",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 445,
+        "fields": {
+            "keyword": "hemianopsia",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 446,
+        "fields": {
+            "keyword": "von hipped-lindau",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 447,
+        "fields": {
+            "keyword": "retinal",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 448,
+        "fields": {
+            "keyword": "angiomas",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 449,
+        "fields": {
+            "keyword": "ruptured",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 450,
+        "fields": {
+            "keyword": "parkinson",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 451,
+        "fields": {
+            "keyword": "thrombosis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 452,
+        "fields": {
+            "keyword": "memory loss",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 453,
+        "fields": {
+            "keyword": "alzheimer",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 454,
+        "fields": {
+            "keyword": "tremors",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 455,
+        "fields": {
+            "keyword": "parethesia",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 456,
+        "fields": {
+            "keyword": "nystagmus",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 457,
+        "fields": {
+            "keyword": "diplopia",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 458,
+        "fields": {
+            "keyword": "vision loss",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 459,
+        "fields": {
+            "keyword": "afebrile",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 460,
+        "fields": {
+            "keyword": "papilledema",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 461,
+        "fields": {
+            "keyword": "cysticercosis",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 462,
+        "fields": {
+            "keyword": "subdural hematoma",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 463,
+        "fields": {
+            "keyword": "deficit",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 464,
+        "fields": {
+            "keyword": "avm",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 465,
+        "fields": {
+            "keyword": "arterio venous malformation",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 466,
+        "fields": {
+            "keyword": "tinnitis",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 467,
+        "fields": {
+            "keyword": "abcess",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 468,
+        "fields": {
+            "keyword": "suprasellar mass",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 469,
+        "fields": {
+            "keyword": "vascular",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 470,
+        "fields": {
+            "keyword": "parkinsons",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 471,
+        "fields": {
+            "keyword": "headaches",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 472,
+        "fields": {
+            "keyword": "structural",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 473,
+        "fields": {
+            "keyword": "basal ganglia",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 474,
+        "fields": {
+            "keyword": "vertigo",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 475,
+        "fields": {
+            "keyword": "nausea",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 476,
+        "fields": {
+            "keyword": "tonic clonic",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 477,
+        "fields": {
+            "keyword": "lymphoma",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 478,
+        "fields": {
+            "keyword": "bacteremia",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 479,
+        "fields": {
+            "keyword": "urosepsis",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 480,
+        "fields": {
+            "keyword": "white matter",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 481,
+        "fields": {
+            "keyword": "pre op",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 482,
+        "fields": {
+            "keyword": "nyd",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 483,
+        "fields": {
+            "keyword": "nerve",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 484,
+        "fields": {
+            "keyword": "ms progressive",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 485,
+        "fields": {
+            "keyword": "traumatic",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 486,
+        "fields": {
+            "keyword": "tle",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 487,
+        "fields": {
+            "keyword": "carotids",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 488,
+        "fields": {
+            "keyword": "vertebrals",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 489,
+        "fields": {
+            "keyword": "fmd",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 490,
+        "fields": {
+            "keyword": "memory",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 491,
+        "fields": {
+            "keyword": "coiling",
+            "points": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 492,
+        "fields": {
+            "keyword": "family history aneurysm",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 493,
+        "fields": {
+            "keyword": "shunted",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 494,
+        "fields": {
+            "keyword": "obstructive",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 495,
+        "fields": {
+            "keyword": "encephalitis",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 496,
+        "fields": {
+            "keyword": "infarction",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 497,
+        "fields": {
+            "keyword": "ferritin",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 498,
+        "fields": {
+            "keyword": "reccommended",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 499,
+        "fields": {
+            "keyword": "recommend",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 500,
+        "fields": {
+            "keyword": "thrombosis",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 501,
+        "fields": {
+            "keyword": "whitish",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 502,
+        "fields": {
+            "keyword": "whitish lesions",
+            "points": 3,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 503,
+        "fields": {
+            "keyword": "previous mri",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 504,
+        "fields": {
+            "keyword": "symptomatology",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 505,
+        "fields": {
+            "keyword": "cns",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 506,
+        "fields": {
+            "keyword": "revascularization",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 507,
+        "fields": {
+            "keyword": "pseudotumour",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 508,
+        "fields": {
+            "keyword": "fatigue",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 509,
+        "fields": {
+            "keyword": "weakness",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 510,
+        "fields": {
+            "keyword": "legs",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 511,
+        "fields": {
+            "keyword": "als",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 512,
+        "fields": {
+            "keyword": "shaky legs",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 513,
+        "fields": {
+            "keyword": "difficulty walking",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 514,
+        "fields": {
+            "keyword": "intermittant",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 515,
+        "fields": {
+            "keyword": "neuropathy",
+            "points": 5,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 516,
+        "fields": {
+            "keyword": "nph",
+            "points": 10,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 517,
+        "fields": {
+            "keyword": "confusion",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 518,
+        "fields": {
+            "keyword": "gait",
+            "points": 1,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 519,
+        "fields": {
+            "keyword": "metabolite",
+            "points": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 520,
+        "fields": {
+            "keyword": "brain",
+            "points": 20,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 521,
+        "fields": {
+            "keyword": "neck",
+            "points": 20,
+            "type": 3
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 522,
+        "fields": {
+            "keyword": "tumor",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 523,
+        "fields": {
+            "keyword": "tumour",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 524,
+        "fields": {
+            "keyword": "discitis",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 525,
+        "fields": {
+            "keyword": "infection",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 526,
+        "fields": {
+            "keyword": "myelogram",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 527,
+        "fields": {
+            "keyword": "radiculopathy",
+            "points": 200,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 528,
+        "fields": {
+            "keyword": "numbness",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 529,
+        "fields": {
+            "keyword": "disc",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 530,
+        "fields": {
+            "keyword": "epidural",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 531,
+        "fields": {
+            "keyword": "hematoma",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 532,
+        "fields": {
+            "keyword": "cyst",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 533,
+        "fields": {
+            "keyword": "arnold-chiari malformation ",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 534,
+        "fields": {
+            "keyword": "syringomyelia",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 535,
+        "fields": {
+            "keyword": "hydromyelia ",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 536,
+        "fields": {
+            "keyword": "sensory loss",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 537,
+        "fields": {
+            "keyword": "tethered cord",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 538,
+        "fields": {
+            "keyword": "weakness",
+            "points": 15,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 539,
+        "fields": {
+            "keyword": "herniated ",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 540,
+        "fields": {
+            "keyword": "lower back pain",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 541,
+        "fields": {
+            "keyword": "pain",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 542,
+        "fields": {
+            "keyword": "atrophy",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 543,
+        "fields": {
+            "keyword": "tingling",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 544,
+        "fields": {
+            "keyword": "stenosis",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 545,
+        "fields": {
+            "keyword": "myelopathy ",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 546,
+        "fields": {
+            "keyword": "gait",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 547,
+        "fields": {
+            "keyword": "paresthsia",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 548,
+        "fields": {
+            "keyword": "spodylolisthsis",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 549,
+        "fields": {
+            "keyword": "ms",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 550,
+        "fields": {
+            "keyword": "multiple sclerosis",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 551,
+        "fields": {
+            "keyword": "dysfunction",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 552,
+        "fields": {
+            "keyword": "deterioration ",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 553,
+        "fields": {
+            "keyword": "osteomyelitis ",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 554,
+        "fields": {
+            "keyword": "lower extremities ",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 555,
+        "fields": {
+            "keyword": "upper extremities ",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 556,
+        "fields": {
+            "keyword": "leg",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 557,
+        "fields": {
+            "keyword": "arm",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 558,
+        "fields": {
+            "keyword": "hand",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 559,
+        "fields": {
+            "keyword": "mets",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 560,
+        "fields": {
+            "keyword": "metastatic",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 561,
+        "fields": {
+            "keyword": "compression",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 562,
+        "fields": {
+            "keyword": "ependymoma",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 563,
+        "fields": {
+            "keyword": "feet",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 564,
+        "fields": {
+            "keyword": "meningioma ",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 565,
+        "fields": {
+            "keyword": "fracture",
+            "points": 1,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 566,
+        "fields": {
+            "keyword": "paralysis",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 567,
+        "fields": {
+            "keyword": "dislocation",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 568,
+        "fields": {
+            "keyword": "odomtoid",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 569,
+        "fields": {
+            "keyword": "ischemia",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 570,
+        "fields": {
+            "keyword": "infarction",
+            "points": 0,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 571,
+        "fields": {
+            "keyword": "fever",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 572,
+        "fields": {
+            "keyword": "bladder function",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 573,
+        "fields": {
+            "keyword": " l ",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 574,
+        "fields": {
+            "keyword": "l-spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 575,
+        "fields": {
+            "keyword": "l-sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 576,
+        "fields": {
+            "keyword": "l sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 577,
+        "fields": {
+            "keyword": " t ",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 578,
+        "fields": {
+            "keyword": "t-spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 579,
+        "fields": {
+            "keyword": "t-sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 580,
+        "fields": {
+            "keyword": "t sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 581,
+        "fields": {
+            "keyword": " c ",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 582,
+        "fields": {
+            "keyword": "c-spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 583,
+        "fields": {
+            "keyword": "c-sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 584,
+        "fields": {
+            "keyword": "c sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 585,
+        "fields": {
+            "keyword": "c and t",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 586,
+        "fields": {
+            "keyword": "c and t-spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 587,
+        "fields": {
+            "keyword": "c-sp and t-sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 588,
+        "fields": {
+            "keyword": "c sp and t-sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 589,
+        "fields": {
+            "keyword": "c spine and t spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 590,
+        "fields": {
+            "keyword": "c and l",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 591,
+        "fields": {
+            "keyword": "c and l spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 592,
+        "fields": {
+            "keyword": "c spine and l spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 593,
+        "fields": {
+            "keyword": "c-sp and l-sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 594,
+        "fields": {
+            "keyword": "c sp and l--sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 595,
+        "fields": {
+            "keyword": "l second",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 596,
+        "fields": {
+            "keyword": "l third",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 597,
+        "fields": {
+            "keyword": "l2",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 598,
+        "fields": {
+            "keyword": "l3",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 599,
+        "fields": {
+            "keyword": "spondylolisthesis",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 600,
+        "fields": {
+            "keyword": "low back",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 601,
+        "fields": {
+            "keyword": "incontinence",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 602,
+        "fields": {
+            "keyword": "tone",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 603,
+        "fields": {
+            "keyword": "pre op",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 604,
+        "fields": {
+            "keyword": "back pain",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 605,
+        "fields": {
+            "keyword": "low back discitis",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 606,
+        "fields": {
+            "keyword": "lower extremity",
+            "points": 3,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 607,
+        "fields": {
+            "keyword": "shoulder",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 608,
+        "fields": {
+            "keyword": "neck pain",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 609,
+        "fields": {
+            "keyword": "lumbar fusion",
+            "points": 20,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 610,
+        "fields": {
+            "keyword": "lumbar decompression",
+            "points": 20,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 611,
+        "fields": {
+            "keyword": "stiff neck",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 612,
+        "fields": {
+            "keyword": "lumbar",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 613,
+        "fields": {
+            "keyword": "cervical myopathy",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 614,
+        "fields": {
+            "keyword": "arm",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 615,
+        "fields": {
+            "keyword": "mvc",
+            "points": 0,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 616,
+        "fields": {
+            "keyword": "paraesthesias",
+            "points": 0,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 617,
+        "fields": {
+            "keyword": "legs",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 618,
+        "fields": {
+            "keyword": "feet ",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 619,
+        "fields": {
+            "keyword": "lumbar spine",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 620,
+        "fields": {
+            "keyword": " si ",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 621,
+        "fields": {
+            "keyword": "sponyloarthropathy",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 622,
+        "fields": {
+            "keyword": "drop",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 623,
+        "fields": {
+            "keyword": "disc protrusion",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 624,
+        "fields": {
+            "keyword": "radicular",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 625,
+        "fields": {
+            "keyword": "sacroilitis",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 626,
+        "fields": {
+            "keyword": "herniated",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 627,
+        "fields": {
+            "keyword": "disc",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 628,
+        "fields": {
+            "keyword": " ll ",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 629,
+        "fields": {
+            "keyword": "anterolisthesis",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 630,
+        "fields": {
+            "keyword": "narrowing",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 631,
+        "fields": {
+            "keyword": "fracture",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 632,
+        "fields": {
+            "keyword": "hip",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 633,
+        "fields": {
+            "keyword": "radiates",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 634,
+        "fields": {
+            "keyword": "surgical planning",
+            "points": 15,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 635,
+        "fields": {
+            "keyword": "planning",
+            "points": 15,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 636,
+        "fields": {
+            "keyword": "stenosis",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 637,
+        "fields": {
+            "keyword": "nerve impingment",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 638,
+        "fields": {
+            "keyword": "degeneritive disc desease",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 639,
+        "fields": {
+            "keyword": "t and l spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 640,
+        "fields": {
+            "keyword": "t sp and l sp",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 641,
+        "fields": {
+            "keyword": "t spine and l spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 642,
+        "fields": {
+            "keyword": "mva",
+            "points": 0,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 643,
+        "fields": {
+            "keyword": "ankylosing spondylitis",
+            "points": 20,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 644,
+        "fields": {
+            "keyword": "rectal tone",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 645,
+        "fields": {
+            "keyword": "tingling",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 646,
+        "fields": {
+            "keyword": "thigh",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 647,
+        "fields": {
+            "keyword": "nerve root",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 648,
+        "fields": {
+            "keyword": "bending forward",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 649,
+        "fields": {
+            "keyword": "r/o disc",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 650,
+        "fields": {
+            "keyword": "thoracic",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 651,
+        "fields": {
+            "keyword": "syrinx",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 652,
+        "fields": {
+            "keyword": "arachnoiditis",
+            "points": 15,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 653,
+        "fields": {
+            "keyword": "decompressed",
+            "points": 25,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 654,
+        "fields": {
+            "keyword": "impingement",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 655,
+        "fields": {
+            "keyword": "endplate",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 656,
+        "fields": {
+            "keyword": "spurring",
+            "points": 2,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 657,
+        "fields": {
+            "keyword": "drop foot",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 658,
+        "fields": {
+            "keyword": "entire spine",
+            "points": 10,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 659,
+        "fields": {
+            "keyword": "radiation",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 660,
+        "fields": {
+            "keyword": "osteoporosis",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 661,
+        "fields": {
+            "keyword": "fusion",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 662,
+        "fields": {
+            "keyword": "neck",
+            "points": 5,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 663,
+        "fields": {
+            "keyword": "coccyx",
+            "points": 20,
+            "type": 4
+        }
+    },
+    {
+        "model": "keywords.keyword",
+        "pk": 664,
+        "fields": {
+            "keyword": "sacrum",
+            "points": 20,
+            "type": 4
+        }
+    }
+]

@@ -1,0 +1,1568 @@
+[
+    {
+        "model": "protocols.protocol",
+        "pk": 1,
+        "fields": {
+            "protocol": "Liver",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 2,
+        "fields": {
+            "protocol": "Liver Fe2 + Quantification",
+            "examTime": 30,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 3,
+        "fields": {
+            "protocol": "Liver Ablation",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 4,
+        "fields": {
+            "protocol": "Liver Primovist",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 5,
+        "fields": {
+            "protocol": "Bile Leak Primovist",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 6,
+        "fields": {
+            "protocol": "Pancrease/MRCP",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 7,
+        "fields": {
+            "protocol": "MRCP",
+            "examTime": 30,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 8,
+        "fields": {
+            "protocol": "Kidneys with Subtractions",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 9,
+        "fields": {
+            "protocol": "Adrenals",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 10,
+        "fields": {
+            "protocol": "Rectal Ca Staging",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 11,
+        "fields": {
+            "protocol": "Anal Fistula",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 12,
+        "fields": {
+            "protocol": "Enterography",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 13,
+        "fields": {
+            "protocol": "Prostate",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 14,
+        "fields": {
+            "protocol": "Female Pelvis",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 15,
+        "fields": {
+            "protocol": "True Cor and Ax Uterus Views",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 16,
+        "fields": {
+            "protocol": "Pregnant Appendisitis",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 17,
+        "fields": {
+            "protocol": "MRU Focus Kidneys/Bladder",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 18,
+        "fields": {
+            "protocol": "Abdomen Screen",
+            "examTime": 60,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 19,
+        "fields": {
+            "protocol": "Liver MRCP",
+            "examTime": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 20,
+        "fields": {
+            "protocol": "add MRCP",
+            "examTime": 0,
+            "type": 1
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 21,
+        "fields": {
+            "protocol": "Knee",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 22,
+        "fields": {
+            "protocol": "Shoulder",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 23,
+        "fields": {
+            "protocol": "Elbow",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 24,
+        "fields": {
+            "protocol": "Wrist",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 25,
+        "fields": {
+            "protocol": "Hand",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 26,
+        "fields": {
+            "protocol": "Hip",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 27,
+        "fields": {
+            "protocol": "Foot",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 28,
+        "fields": {
+            "protocol": "Ankle",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 29,
+        "fields": {
+            "protocol": "Multiplpe Myeloma",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 30,
+        "fields": {
+            "protocol": "Myopathy",
+            "examTime": 120,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 31,
+        "fields": {
+            "protocol": "Tumour + Subractions + Vit E marked",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 32,
+        "fields": {
+            "protocol": "Mortons Neuroma",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 33,
+        "fields": {
+            "protocol": "Hand",
+            "examTime": 45,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 34,
+        "fields": {
+            "protocol": "Fingers",
+            "examTime": 45,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 35,
+        "fields": {
+            "protocol": "Achilles Tendon",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 36,
+        "fields": {
+            "protocol": "Humerus",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 37,
+        "fields": {
+            "protocol": "Forearm",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 38,
+        "fields": {
+            "protocol": "Femur",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 39,
+        "fields": {
+            "protocol": "Tib/Fib",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 40,
+        "fields": {
+            "protocol": "Sternum",
+            "examTime": 60,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 41,
+        "fields": {
+            "protocol": "Tumour with Gad Subtractions",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 42,
+        "fields": {
+            "protocol": "Sacrum",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 43,
+        "fields": {
+            "protocol": "L-Spine",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 44,
+        "fields": {
+            "protocol": "L-Spine and Sacrum",
+            "examTime": 45,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 45,
+        "fields": {
+            "protocol": "Bilateral",
+            "examTime": 30,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 46,
+        "fields": {
+            "protocol": "Review with Radiologist",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 47,
+        "fields": {
+            "protocol": "Scapula",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 48,
+        "fields": {
+            "protocol": "Thumb",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 49,
+        "fields": {
+            "protocol": "Toes",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 50,
+        "fields": {
+            "protocol": "add Biceps Tendon Tear",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 51,
+        "fields": {
+            "protocol": "Ankylosing Spondylitis",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 52,
+        "fields": {
+            "protocol": "Sports Hernia/Athletic Pubalgia",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 53,
+        "fields": {
+            "protocol": "Hip Arthrogram",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 54,
+        "fields": {
+            "protocol": "Lumbar Plexus",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 55,
+        "fields": {
+            "protocol": "Ortho Pelvis",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 56,
+        "fields": {
+            "protocol": "Pectoralis Tear",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 57,
+        "fields": {
+            "protocol": "Quad Tear",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 58,
+        "fields": {
+            "protocol": "Scaphoid",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 59,
+        "fields": {
+            "protocol": "Shoulder Arthrogram",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 60,
+        "fields": {
+            "protocol": "Stenar / Games Keeper",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 62,
+        "fields": {
+            "protocol": "Wrist Arthrogram",
+            "examTime": 0,
+            "type": 2
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 63,
+        "fields": {
+            "protocol": "Routine Brain",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 64,
+        "fields": {
+            "protocol": "BTFU",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 65,
+        "fields": {
+            "protocol": "BTFU + Spec + Perfusion",
+            "examTime": 60,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 66,
+        "fields": {
+            "protocol": "Trauma",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 67,
+        "fields": {
+            "protocol": "Stroke/TIA",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 68,
+        "fields": {
+            "protocol": "Fast Stroke",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 69,
+        "fields": {
+            "protocol": "MS Brain",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 70,
+        "fields": {
+            "protocol": "MS Brain + Gad",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 71,
+        "fields": {
+            "protocol": "MS Screen",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 72,
+        "fields": {
+            "protocol": "MS Orbits",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 73,
+        "fields": {
+            "protocol": "Orbits + Gad",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 74,
+        "fields": {
+            "protocol": "MTS Seizure",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 75,
+        "fields": {
+            "protocol": "Generalized Seizure",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 76,
+        "fields": {
+            "protocol": "Epilepsy",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 77,
+        "fields": {
+            "protocol": "IAC's",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 78,
+        "fields": {
+            "protocol": "IAC Screen",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 79,
+        "fields": {
+            "protocol": "Sella",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 80,
+        "fields": {
+            "protocol": "Sella Dynamic",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 81,
+        "fields": {
+            "protocol": "Trigeminal Neuralgia",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 82,
+        "fields": {
+            "protocol": "Hemi Facial Spasm",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 83,
+        "fields": {
+            "protocol": "F/U Aneurysm",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 84,
+        "fields": {
+            "protocol": "Post OP Brain (24-48 hrs)",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 85,
+        "fields": {
+            "protocol": "Navigator (Pre NSX)",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 86,
+        "fields": {
+            "protocol": "Dementia",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 87,
+        "fields": {
+            "protocol": "Venous Thrombosis",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 88,
+        "fields": {
+            "protocol": "TMJ",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 89,
+        "fields": {
+            "protocol": "Dissection",
+            "examTime": 20,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 90,
+        "fields": {
+            "protocol": "DAI",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 91,
+        "fields": {
+            "protocol": "CC-Junction",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 92,
+        "fields": {
+            "protocol": "Stroke and Carotids + PG",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 93,
+        "fields": {
+            "protocol": "Carotid Plaques",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 94,
+        "fields": {
+            "protocol": "Parotid Perfusion",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 95,
+        "fields": {
+            "protocol": "Brachial Plexus",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 96,
+        "fields": {
+            "protocol": "Neck",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 97,
+        "fields": {
+            "protocol": "Oropharynx (3mm)",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 98,
+        "fields": {
+            "protocol": "add Spectroscopy",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 99,
+        "fields": {
+            "protocol": "Multi Voxel Spec",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 100,
+        "fields": {
+            "protocol": "Perfusion",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 101,
+        "fields": {
+            "protocol": "DTI",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 102,
+        "fields": {
+            "protocol": "CSF Flow",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 103,
+        "fields": {
+            "protocol": "MR Sialogrm",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 104,
+        "fields": {
+            "protocol": "Hemmorhage/AVM",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 105,
+        "fields": {
+            "protocol": "add COW",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 106,
+        "fields": {
+            "protocol": "add TOF",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 107,
+        "fields": {
+            "protocol": "add fMRI Review with Dr Essig",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 108,
+        "fields": {
+            "protocol": "add TWIST review with Dr McEachern",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 109,
+        "fields": {
+            "protocol": "add Ax T1 and Cor 3D T1 PG",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 110,
+        "fields": {
+            "protocol": "Sella",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 111,
+        "fields": {
+            "protocol": "add TOF COW and SWI",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 112,
+        "fields": {
+            "protocol": "50 add GRE and TOF",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 113,
+        "fields": {
+            "protocol": "add TOF COW, Ax FLAIR, Ax  GRE",
+            "examTime": 45,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 114,
+        "fields": {
+            "protocol": "add Cor MPRAGE",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 115,
+        "fields": {
+            "protocol": "add AXIEM Navigator",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 116,
+        "fields": {
+            "protocol": "add Stroke Protocol",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 117,
+        "fields": {
+            "protocol": "add AX CISS, TOF COW, COR T1 Pre of nerves",
+            "examTime": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 118,
+        "fields": {
+            "protocol": "add SWI",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 119,
+        "fields": {
+            "protocol": "add COR FLAIR and AX SWI",
+            "examTime": 15,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 120,
+        "fields": {
+            "protocol": "BTFU FS COR PG",
+            "examTime": 30,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 121,
+        "fields": {
+            "protocol": "Clarify Coding with Radiologist",
+            "examTime": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 122,
+        "fields": {
+            "protocol": "add MRV",
+            "examTime": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 123,
+        "fields": {
+            "protocol": "Review Coding with Radiologist",
+            "examTime": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 124,
+        "fields": {
+            "protocol": "add Perfusion with PG AX and COR",
+            "examTime": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 125,
+        "fields": {
+            "protocol": "add SAG SPACE FLAIR, COR T2, AX SWI",
+            "examTime": 0,
+            "type": 3
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 126,
+        "fields": {
+            "protocol": "C-Spine Tumour",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 127,
+        "fields": {
+            "protocol": "C-Spine Disc",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 128,
+        "fields": {
+            "protocol": "C-Spine Discitis",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 129,
+        "fields": {
+            "protocol": "C-Spine Trauma",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 130,
+        "fields": {
+            "protocol": "C-Spine MS",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 131,
+        "fields": {
+            "protocol": "C-Disc VS. Scar",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 132,
+        "fields": {
+            "protocol": "T-Spine Tumour",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 133,
+        "fields": {
+            "protocol": "T-Spine Disc",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 134,
+        "fields": {
+            "protocol": "T-Spine Discitis",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 135,
+        "fields": {
+            "protocol": "T-Spine Trauma",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 136,
+        "fields": {
+            "protocol": "T-Spine MS",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 137,
+        "fields": {
+            "protocol": "T-Disc VS. Scar",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 138,
+        "fields": {
+            "protocol": "L-Spine Tumour",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 139,
+        "fields": {
+            "protocol": "L-Spine Disc",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 140,
+        "fields": {
+            "protocol": "L-Spine Discitis",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 141,
+        "fields": {
+            "protocol": "L-Spine Trauma",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 142,
+        "fields": {
+            "protocol": "L-Spine MS",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 143,
+        "fields": {
+            "protocol": "L-Disc VS. Scar",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 144,
+        "fields": {
+            "protocol": "Myelogram",
+            "examTime": 60,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 145,
+        "fields": {
+            "protocol": "Sacrum",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 146,
+        "fields": {
+            "protocol": "Coccycx",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 147,
+        "fields": {
+            "protocol": "Myelogram T1",
+            "examTime": 60,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 148,
+        "fields": {
+            "protocol": "Myelogram T2",
+            "examTime": 60,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 149,
+        "fields": {
+            "protocol": "Whole Spine Tumour",
+            "examTime": 70,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 150,
+        "fields": {
+            "protocol": "Whole Spine Disc",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 151,
+        "fields": {
+            "protocol": "Whole Spine Discitis",
+            "examTime": 90,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 152,
+        "fields": {
+            "protocol": "Whole Spine Trauma",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 153,
+        "fields": {
+            "protocol": "Sag GRE",
+            "examTime": 20,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 154,
+        "fields": {
+            "protocol": "C and T Spine Tumour",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 155,
+        "fields": {
+            "protocol": "C and T Spine Disc",
+            "examTime": 60,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 156,
+        "fields": {
+            "protocol": "C and T Spine Discitis",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 157,
+        "fields": {
+            "protocol": "C and T Spine Trauma",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 158,
+        "fields": {
+            "protocol": "C and T Spine MS",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 159,
+        "fields": {
+            "protocol": "C and T Spine disc vs Scar",
+            "examTime": 90,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 160,
+        "fields": {
+            "protocol": "C and L Spine Tumour",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 161,
+        "fields": {
+            "protocol": "C and L Spine Disc",
+            "examTime": 60,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 162,
+        "fields": {
+            "protocol": "C and L Spine Discitis",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 163,
+        "fields": {
+            "protocol": "C and L Spine Trauma",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 164,
+        "fields": {
+            "protocol": "C and L Spine MS",
+            "examTime": 90,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 165,
+        "fields": {
+            "protocol": "C and L Spine disc vs Scar",
+            "examTime": 90,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 166,
+        "fields": {
+            "protocol": "T and L Spine Tumour",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 167,
+        "fields": {
+            "protocol": "T and L Spine Disc",
+            "examTime": 60,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 168,
+        "fields": {
+            "protocol": "T and L Spine Discitis",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 169,
+        "fields": {
+            "protocol": "T and L Spine Trauma",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 170,
+        "fields": {
+            "protocol": "T and L Spine MS",
+            "examTime": 75,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 171,
+        "fields": {
+            "protocol": "T and L Spine Disc vs Scar",
+            "examTime": 90,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 172,
+        "fields": {
+            "protocol": "L-Spine Pre Op Planning",
+            "examTime": 45,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 173,
+        "fields": {
+            "protocol": "Sag T2 FS",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 174,
+        "fields": {
+            "protocol": "SI Joints",
+            "examTime": 30,
+            "type": 4
+        }
+    },
+    {
+        "model": "protocols.protocol",
+        "pk": 175,
+        "fields": {
+            "protocol": "SI and L with Sag Stir",
+            "examTime": 45,
+            "type": 4
+        }
+    }
+]

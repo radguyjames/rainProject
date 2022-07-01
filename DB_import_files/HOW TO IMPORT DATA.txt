@@ -1,0 +1,36 @@
+-------------------------------------------------------
+HOW TO IMPORT DATA INTO YOUR RAIN DATABASE
+-------------------------------------------------------
+
+
+DO NOT IMPORT DATA THROUGH MONGODB COMPASS!!!
+
+
+RAIN uses MongoDB as a database with Django as a backend.
+Mongo does not have auto-incrementing primary keys and as 
+such will not keep track of them if you import through Compass.
+The auto-increment indexes are maintained by Django so we must 
+import through Django using the command line.
+
+The .json files contained in this folder are Django fixtures.
+Fixtures are Django-specific, formatted import files and 
+contain the data you will be importing into your database.
+
+
+The following commands must be run from inside the pip virtual 
+shell inside the rainProject folder.
+
+TO IMPORT A DATA FILE INTO DATABASE:                                                                        /-------------------------------------------------\
+    * FILE_NAME is the name of the .json file inside the DB_import_files folder you want to import.         | YOU MUST DROP THE DATABASE BEFORE IMPORTING ANY |
+                                                                                                            | OF THE PROTOCOLS, SEQUENCES, OR KEYWORD DATA    |
+    python3 manage.py loaddata ../DB_import_files/FILE_NAME.json                                            \-------------------------------------------------/
+
+TO EXPORT A DATA FILE FROM DATABASE:
+    * APP_NAME is the name of one of the folders inside the backend folder.
+    * MODEL_NAME is the name of one of the classes inside the app's models.py file.
+    * FILE_NAME is what you want the file to be called.
+
+    python3 manage.py dumpdata APP_NAME.MODEL_NAME > FILE_NAME.json
+
+* Exporting will place the new file in the rainProject folder.
+  You will have to move it to the DB_import_files folder.

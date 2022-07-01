@@ -1,0 +1,138 @@
+[
+    {
+        "model": "protocols.typesubpart",
+        "pk": 1,
+        "fields": {
+            "typeID": 2,
+            "subtype": "Shoulder"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 2,
+        "fields": {
+            "typeID": 2,
+            "subtype": "Forearm"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 3,
+        "fields": {
+            "typeID": 2,
+            "subtype": "Knee"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 4,
+        "fields": {
+            "typeID": 2,
+            "subtype": "Foot"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 5,
+        "fields": {
+            "typeID": 2,
+            "subtype": "Ankle"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 6,
+        "fields": {
+            "typeID": 1,
+            "subtype": "Pancreas"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 7,
+        "fields": {
+            "typeID": 1,
+            "subtype": "Pelvis"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 8,
+        "fields": {
+            "typeID": 1,
+            "subtype": "Liver"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 9,
+        "fields": {
+            "typeID": 1,
+            "subtype": "Prostate"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 10,
+        "fields": {
+            "typeID": 1,
+            "subtype": "Kidneys"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 11,
+        "fields": {
+            "typeID": 3,
+            "subtype": "Brain"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 12,
+        "fields": {
+            "typeID": 3,
+            "subtype": "Neck"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 13,
+        "fields": {
+            "typeID": 4,
+            "subtype": "C-spine"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 14,
+        "fields": {
+            "typeID": 4,
+            "subtype": "T-spine"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 15,
+        "fields": {
+            "typeID": 4,
+            "subtype": "L-spine"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 16,
+        "fields": {
+            "typeID": 4,
+            "subtype": "Sacrum"
+        }
+    },
+    {
+        "model": "protocols.typesubpart",
+        "pk": 17,
+        "fields": {
+            "typeID": 4,
+            "subtype": "Coccyx"
+        }
+    }
+]

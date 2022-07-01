@@ -1,0 +1,350 @@
+[
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20001,
+        "fields": {
+            "suggestedProtocol": 127,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Sag T2, Ax MEDIC, Ax T2, Sag T1",
+            "customRequisition_id": 10001
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20002,
+        "fields": {
+            "suggestedProtocol": 145,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 60,
+            "sequences": "Sag T2, Cor STIR, Sag T1 FS PG, Ax T2, Cor T1, Ax T1 FS PG",
+            "customRequisition_id": 10002
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20003,
+        "fields": {
+            "suggestedProtocol": 27,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Sag STIR sm FOV, Ax PD FS sm FOV, Sag STIR, Ax PD FS, Cor T1, Cor T2",
+            "customRequisition_id": 10003
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20004,
+        "fields": {
+            "suggestedProtocol": 23,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor STIR, Sag PD FS, Sag T2",
+            "customRequisition_id": 10004
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20005,
+        "fields": {
+            "suggestedProtocol": 1,
+            "timing": 60,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Ax T1 3D VIBE Delay (3 min), Cor HASTE, Ax HASTE, Ax DWI, Ax in/out of phase, Ax T1 3D VIBE Pre, Ax T1 3D VIBE Venous, Ax T1 3D VIBE Areterial, Ax T2 FS Resp Trigger",
+            "customRequisition_id": 10005
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20006,
+        "fields": {
+            "suggestedProtocol": 69,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Ax FLAIR, Sag FLAIR 3D SPACE, Ax T2, Ax DWI",
+            "customRequisition_id": 10006
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20007,
+        "fields": {
+            "suggestedProtocol": 22,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Ax PD FS, SagT2 FS, Sag T2, Cor T2 FS, Sag T1 ",
+            "customRequisition_id": 10007
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20008,
+        "fields": {
+            "suggestedProtocol": 66,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 4,
+            "sequences": "Ax DWI, Cor FLAIR, Ax T2, Cor T2, Ax GRE T2*, Sag T1 FLAIR",
+            "customRequisition_id": 10008
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20009,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Coding",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10009
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20010,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10010
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20011,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10011
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20012,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10012
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20013,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10013
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20014,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10014
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20015,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10015
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20016,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10016
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20017,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10017
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20018,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10018
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20019,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Timing",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10019
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20020,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10020
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20021,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10021
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20022,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10022
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20023,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10023
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20024,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10024
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20025,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10025
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20026,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10026
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20027,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10027
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20028,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10028
+        }
+    },
+    {
+        "model": "formSubmission.scheduleProtocol",
+        "pk": 20029,
+        "fields": {
+            "suggestedProtocol": 21,
+            "timing": 30,
+            "approvalLevel": "Pending Scheduling",
+            "confidence": 100,
+            "sequences": "Cor T1, Ax PD FS, Cor Obl T2 ACL view, Sag PD FS, Sag T2, Cor PD FS",
+            "customRequisition_id": 10029
+        }
+    }
+]

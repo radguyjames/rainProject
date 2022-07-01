@@ -1,0 +1,30 @@
+[
+    {
+        "model": "protocols.type",
+        "pk": 1,
+        "fields": {
+            "type": "abdomen"
+        }
+    },
+    {
+        "model": "protocols.type",
+        "pk": 2,
+        "fields": {
+            "type": "msk"
+        }
+    },
+    {
+        "model": "protocols.type",
+        "pk": 3,
+        "fields": {
+            "type": "neuro"
+        }
+    },
+    {
+        "model": "protocols.type",
+        "pk": 4,
+        "fields": {
+            "type": "spine"
+        }
+    }
+]
