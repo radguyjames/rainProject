@@ -4,3 +4,4 @@ django-rest-knox
 pdfminer
 django-cors-headers
 gunicorn
+djongo
